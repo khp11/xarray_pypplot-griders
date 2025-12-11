@@ -2,7 +2,7 @@
 just using python all plots for bmd and sfd for grider
 bending moment diagram and shear force diagram for  grider : seperate insight and plots for central grider for 2d plot and 3d plot for all grinder simultaneously an interactive 3d graph to have info just u hover at nodes : the 3d plots will be saved as .html in ur working directory and 2d plot as images
 
-Here is a **clean, professional README.md** that perfectly matches your code and describes everything clearly — modules, files, how to run, features, output, etc.
+
 
 You can copy–paste directly into GitHub.
 
