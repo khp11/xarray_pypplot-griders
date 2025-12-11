@@ -6,6 +6,8 @@ Here is a **clean, professional README.md** that perfectly matches your code and
 
 You can copy–paste directly into GitHub.
 
+read more for full details...
+
 ---
 
 # 📘 **README.md — 3D SFD & BMD Visualization (Plotly + Xarray)**
